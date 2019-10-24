@@ -6,7 +6,7 @@ Your SAM login is independent from your normal Jumpstart login
 
 
 
-selector form[name=selectPYInfo]
+selector form[name="selectPYInfo"]
 
 You can use this row of selectors to specify which year, state, and site you'd like to look at. It will remain the same between pages until you choose another.
 
