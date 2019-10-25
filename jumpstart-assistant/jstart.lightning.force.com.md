@@ -3,3 +3,6 @@ selector a[title='My Open Cases']
 
 selector .slds-combobox-group.forceSearchDesktopHeader
 ## You can search for any record you have access to from here.
+
+selector a
+this is a link
