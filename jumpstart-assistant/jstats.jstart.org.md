@@ -6,3 +6,6 @@ This will show the program year filter being applied to the data you are working
 
 selector md-toolbar a[href*="salesforce.com/001"]
 This icon is a link to the Salesforce record directly. All staff can use this to see the information behind the scenes, including more details, reports, and historical information.
+
+selector md-content button[aria-label="Form on File"]
+These filters are for calling out missing data. When you click one, only the records without any information about the selected topic will be shown.
