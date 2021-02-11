@@ -1,0 +1,9 @@
+Hello ^name,
+
+Your MyJstart account has been ^action! If you have registered a cellphone number with us, you can set up your password by going to https://oops.jstart.org and using the reset process.
+
+You will be receiving a second email with your current password and instructions on how to set up a security question on https://oops.jstart.org so that you can manage your password in the future. This email will be ENCRYPTED and require a verification step. You can find more information at https://my.jstart.org/jumpstarts-online-password-reset-system/ if you would like to use this option.
+
+After you have changed your password, login at https://my.jstart.org with your new Jumpstart username '^userName' and your password to access your site's community page.
+
+Have a great day!
