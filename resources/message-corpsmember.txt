@@ -1,0 +1,13 @@
+Hello ^name,
+
+Your MyJstart account has been ^action, and your password has been changed to:
+
+^newPassword
+
+Please go to http://my.jstart.org/set-question to register with the self-service password reset system. Take a look at https://my.jstart.org/jumpstarts-online-password-reset-system/ for a walk through and more help.
+
+Once you have set up your password reset question, you will be able to recover your account at any time. After registering, change your password at https://oops.jstart.org to something you will remember.
+
+After you have changed your password, login at https://my.jstart.org with your new Jumpstart username '^userName' and your password to access your site's community page.
+
+Have a great day!
