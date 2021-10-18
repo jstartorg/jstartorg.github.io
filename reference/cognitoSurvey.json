@@ -1,0 +1,388 @@
+{
+    "Id": "5-1150",
+    "ECP":
+    {
+        "ChildrenNeedToLearnALotOfWordsSoTheyCanLearnToRead": "Agree",
+        "ChildrenNeedToLearnALotOfWordsSoTheyCanLearnToRead_Rating": 4.0,
+        "ChildrenLearnNewWordsByTalkingWithAdultsAboutWhatTheyAreDoing": "Neither Agree Nor Disagree",
+        "ChildrenShouldDoTheirBestToListenQuietlyWhenAnAdultReadsToThem": "Agree",
+        "GivingChildrenChoicesAboutHowToDoAnActivityPromotesTheirLearning": "Neither Agree Nor Disagree",
+        "ChildrenDoNotNeedToLearnTheMeaningOfALotOfWordsToBecomeGoodReaders": "Neither Agree Nor Disagree",
+        "ChildrenLearnNewWordsByTalkingWithAdultsAboutWhatTheyAreDoing_Rating": 3.0,
+        "ChildrenShouldDoTheirBestToListenQuietlyWhenAnAdultReadsToThem_Rating": 4.0,
+        "ItIsImportantForAdultsToRespondToChildrensQuestionsInCompleteSentences": "Agree",
+        "ChildrenLearnLanguageByTalkingAboutTheirIdeasAndExpressingTheirFeelings": "Agree",
+        "GivingChildrenChoicesAboutHowToDoAnActivityPromotesTheirLearning_Rating": 3.0,
+        "ChildrenDoNotNeedToLearnTheMeaningOfALotOfWordsToBecomeGoodReaders_Rating": 3.0,
+        "AdultsShouldNotUseComplexWordsWithChildrenBecauseTheyWillNotUnderstandThem": "Disagree",
+        "ItIsImportantForAdultsToRespondToChildrensQuestionsInCompleteSentences_Rating": 4.0,
+        "ChildrenLearnLanguageByTalkingAboutTheirIdeasAndExpressingTheirFeelings_Rating": 4.0,
+        "ChildrenLearnNewWordsByConnectingThemToRealThingsObjectsOrActivitiesTheyAreDoing": "Agree",
+        "AdultsShouldNotUseComplexWordsWithChildrenBecauseTheyWillNotUnderstandThem_Rating": 2.0,
+        "ChildrenCannotLearnAnythingNewByDoingTheSameActivityOrReadingTheSameBookOverAndOver": "Disagree",
+        "ChildrenWhoSpendTimePlayingInPreschoolWillNotDevelopTheSkillsTheyNeedForKindergarten": "Agree",
+        "ChildrenLearnNewWordsByConnectingThemToRealThingsObjectsOrActivitiesTheyAreDoing_Rating": 4.0,
+        "ChildrenCannotLearnAnythingNewByDoingTheSameActivityOrReadingTheSameBookOverAndOver_Rating": 2.0,
+        "ChildrenWhoSpendTimePlayingInPreschoolWillNotDevelopTheSkillsTheyNeedForKindergarten_Rating": 4.0,
+        "ItIsEasyForYoungChildrenToBeAbleToTakeAnotherPersonsPerspectiveAndConsiderHowOthersMightBeFeeling": "Disagree",
+        "IfYoungChildrenArgueOrExperienceConflictItIsBestForAdultsToSupportChildrenInSolvingTheirOwnProblems": "Agree",
+        "ItIsEasyForYoungChildrenToBeAbleToTakeAnotherPersonsPerspectiveAndConsiderHowOthersMightBeFeeling_Rating": 2.0,
+        "IfYoungChildrenArgueOrExperienceConflictItIsBestForAdultsToSupportChildrenInSolvingTheirOwnProblems_Rating": 4.0
+    },
+    "FWE":
+    [
+        "Business or Finance"
+    ],
+    "Form":
+    {
+        "Id": "5",
+        "Name": "Corps Member Survey",
+        "InternalName": "CorpsMemberSurvey"
+    },
+    "$etag": "W/\"datetime'2021-04-21T19%3A19%3A21.262562Z'\"",
+    "Email": "redacted@mailinator.com",
+    "Entry":
+    {
+        "Order": null,
+        "IsBeta": false,
+        "Number": 1150,
+        "Origin":
+        {
+            "City": null,
+            "Region": null,
+            "Timezone": null,
+            "IpAddress": "76.99.29.233",
+            "UserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15",
+            "IsImported": false,
+            "CountryCode": null
+        },
+        "Status": "Submitted",
+        "Version": 10,
+        "EditLink": "redactedEditLink",
+        "ViewLink": "redactedViewLink",
+        "AdminLink": "redact",
+        "Document1": "https://www.cognitoforms.com/d/e-BI1XP-WEOsUlHyCaRuhQ?code=REDACT",
+        "Document2": "https://www.cognitoforms.com/d/e-BI1XP-WEOsUlHyCaRuhQ?code=REDACT",
+        "Timestamp": "2021-04-21T19:19:21.069Z",
+        "DateCreated": "2021-04-21T19:10:21.535Z",
+        "DateUpdated": "2021-04-21T19:19:21.226Z",
+        "CustomerCard": null,
+        "PaymentToken": null,
+        "DateSubmitted": "2021-04-21T19:19:21.069Z",
+        "LastPageViewed": "11"
+    },
+    "Stage": "post",
+    "JSRole":
+    [
+        "Corps Member"
+    ],
+    "Origin": "postsurvey_2021",
+    "$version": 7,
+    "CHILDREN":
+    {
+        "ChildSEGrowthStory": null,
+        "ChildSEGrowthYesNo": null,
+        "ChildLanguageGrowthType":
+        [],
+        "ChildLanguageGrowthStory": null,
+        "ChildLanguageGrowthYesNo": null,
+        "NameForChildSEGrowthStory": null,
+        "NameForChildLanguageGrowthStory": null,
+        "ChildSEGrowthStoryNameConsentYesNo": null,
+        "ChildLanguageGrowthStoryNameConsentYesNo": null
+    },
+    "SiteName": "Temple University",
+    "SiteSlug": "temple-university",
+    "WFDAfter":
+    {
+        "TimeManagement": "Very Strong",
+        "TakingALeadershipRole": "Very Strong",
+        "TimeManagement_Rating": 4.0,
+        "CollaborationAndTeamwork": "Somewhat Strong",
+        "ProblemsolvingWithAdults": "Very Strong",
+        "ProblemsolvingWithChildren": "Somewhat Strong",
+        "TakingALeadershipRole_Rating": 4.0,
+        "CollaborationAndTeamwork_Rating": 3.0,
+        "ProblemsolvingWithAdults_Rating": 4.0,
+        "BuildingRelationshipsWithChildren": "Very Strong",
+        "ImprovisingInUnexpectedSituations": "Very Strong",
+        "ProblemsolvingWithChildren_Rating": 3.0,
+        "ClearVerbalCommunicationWithAdults": "Somewhat Strong",
+        "BackAndForthConversationWithChildren": "Somewhat Strong",
+        "WorkingToAddressProblemsInTheCommunity": "Very Strong",
+        "UnderstandingOfProfessionalExpectations": "Somewhat Strong",
+        "BuildingRelationshipsWithChildren_Rating": 4.0,
+        "ImprovisingInUnexpectedSituations_Rating": 4.0,
+        "ClearVerbalCommunicationWithAdults_Rating": 3.0,
+        "BackAndForthConversationWithChildren_Rating": 3.0,
+        "WorkingToAddressProblemsInTheCommunity_Rating": 4.0,
+        "UnderstandingOfProfessionalExpectations_Rating": 3.0,
+        "UnderstandingAndWorkingWithIndividualsFromDiverseBackgrounds": "Very Strong",
+        "UnderstandingAndWorkingWithIndividualsFromDiverseBackgrounds_Rating": 4.0,
+        "CurriculumImplementationplanningForSessionsPreppingStorybooksOrMaterialsFacilitatingActivitiesWithChildrenEtc": "Somewhat Weak",
+        "CurriculumImplementationplanningForSessionsPreppingStorybooksOrMaterialsFacilitatingActivitiesWithChildrenEtc_Rating": 2.0
+    },
+    "Classroom":
+    {
+        "TeacherInteractionYesNo": null
+    },
+    "Returning": "Not sure",
+    "WFDBefore":
+    {
+        "TimeManagement": "Very Strong",
+        "TakingALeadershipRole": "Very Strong",
+        "TimeManagement_Rating": 4.0,
+        "CollaborationAndTeamwork": "Somewhat Strong",
+        "ProblemsolvingWithAdults": "Very Strong",
+        "ProblemsolvingWithChildren": "Somewhat Strong",
+        "TakingALeadershipRole_Rating": 4.0,
+        "CollaborationAndTeamwork_Rating": 3.0,
+        "ProblemsolvingWithAdults_Rating": 4.0,
+        "BuildingRelationshipsWithChildren": "Very Strong",
+        "ImprovisingInUnexpectedSituations": "Very Strong",
+        "ProblemsolvingWithChildren_Rating": 3.0,
+        "ClearVerbalCommunicationWithAdults": "Somewhat Strong",
+        "BackAndForthConversationWithChildren": "Somewhat Strong",
+        "WorkingToAddressProblemsInTheCommunity": "Very Strong",
+        "UnderstandingOfProfessionalExpectations": "Somewhat Strong",
+        "BuildingRelationshipsWithChildren_Rating": 4.0,
+        "ImprovisingInUnexpectedSituations_Rating": 4.0,
+        "ClearVerbalCommunicationWithAdults_Rating": 3.0,
+        "BackAndForthConversationWithChildren_Rating": 3.0,
+        "WorkingToAddressProblemsInTheCommunity_Rating": 4.0,
+        "UnderstandingOfProfessionalExpectations_Rating": 3.0,
+        "UnderstandingAndWorkingWithIndividualsFromDiverseBackgrounds": "Very Strong",
+        "UnderstandingAndWorkingWithIndividualsFromDiverseBackgrounds_Rating": 4.0,
+        "CurriculumImplementationplanningForSessionsPreppingStorybooksOrMaterialsFacilitatingActivitiesWithChildrenEtc": "Somewhat Weak",
+        "CurriculumImplementationplanningForSessionsPreppingStorybooksOrMaterialsFacilitatingActivitiesWithChildrenEtc_Rating": 2.0
+    },
+    "YearValue": "2021",
+    "ECTeaching": null,
+    "EdTeaching": null,
+    "GradDegree": "Yes",
+    "Internship": "No",
+    "StoriesYou":
+    {
+        "YouStory": "As I reflect on Jumpstart this past year, I think about the trainings we did and the videos necessary to complete. After watching videos and movies, I have learned a ton about the communities we are serving and how truly important Jumpstart is for children. I have also been able to reflect one my own experiences as a first-generation college student and being a Latin female. I want to use my own experiences as a way to relate with other under-privileged communities.",
+        "NameForYouStory": null,
+        "YouStoryNameConsentYesNo": "No"
+    },
+    "AlumConsent": null,
+    "ConsentForm":
+    {
+        "Consent": "Yes"
+    },
+    "ProgramYear": "FY21 (2020-2021)",
+    "ChangedMajor":
+    {
+        "ChangeMajor": "No",
+        "ChangedMajorBecauseJumpstart": null
+    },
+    "SalesforceId": null,
+    "TeacherStory": null,
+    "RaceEthnicity":
+    [],
+    "TypeOfService":
+    [
+        "Virtual, one-way communication (non-interactive, such as recorded readings, preparation of kits, etc.)"
+    ],
+    "YearsInvolved": "Two years",
+    "GradDegreeType":
+    {
+        "ChildDevelopment": "No",
+        "ChildDevelopment_Rating": 2.0,
+        "HumansocialServicesOrSocialWork": "No",
+        "EarlyChildhoodaFocusOn08Yearolds": "No",
+        "EducationnotIncludingEarlyChildhood": "No",
+        "HumansocialServicesOrSocialWork_Rating": 2.0,
+        "EarlyChildhoodaFocusOn08Yearolds_Rating": 2.0,
+        "EducationnotIncludingEarlyChildhood_Rating": 2.0
+    },
+    "ProgramOfStudy":
+    [
+        "Business/Finance"
+    ],
+    "FirstGenCollege": null,
+    "IdentityRespect":
+    {
+        "Age": "Strongly Agree",
+        "Age_Rating": 4.0,
+        "MentalHealth": "Strongly Agree",
+        "RaceEthnicity": "Strongly Agree",
+        "GenderIdentity": "Strongly Agree",
+        "LanguagesSpoken": "Strongly Agree",
+        "SexualOrientation": "Strongly Agree",
+        "CitizenshipStatus2": "Strongly Agree",
+        "MentalHealth_Rating": 4.0,
+        "SocioeconomicStatus": "Strongly Agree",
+        "RaceEthnicity_Rating": 4.0,
+        "GenderIdentity_Rating": 4.0,
+        "PhysicalAbilityStatus": "Strongly Agree",
+        "LanguagesSpoken_Rating": 4.0,
+        "SexualOrientation_Rating": 4.0,
+        "CitizenshipStatus2_Rating": 4.0,
+        "SocioeconomicStatus_Rating": 4.0,
+        "PhysicalAbilityStatus_Rating": 4.0,
+        "ACharacteristicNotMentionedAbove": "Strongly Agree",
+        "ACharacteristicNotMentionedAbove_Rating": 4.0
+    },
+    "JoinAlumChapter": null,
+    "LeadAlumChapter": null,
+    "PrimaryLanguage": null,
+    "ProgramFeedback":
+    {
+        "IWouldRecommendServingWithJumpstartToMyPeers": "Strongly Agree",
+        "IWouldRecommendServingWithJumpstartToMyPeers_Rating": 4.0,
+        "JumpstartEffectivelyTrainedMeToInteractWithChildrensFamilies": "Disagree",
+        "JumpstartEffectivelyTrainedMeToInteractWithChildrensFamilies_Rating": 2.0,
+        "MyJumpstartExperienceHasHelpedMeFeelMoreEngagedAtMyCollegeuniversity": "Agree",
+        "MyJumpstartExperienceHasHelpedMeFeelMoreEngagedAtMyCollegeuniversity_Rating": 3.0,
+        "MyJumpstartExperienceHasHelpedMeFeelMoreConnectedToTheCommunityInWhichIServed": "Disagree",
+        "TheObservationAndFeedbackProcessHelpedMeMoreEffectivelyFocusOnDomainsAndSkills": "Strongly Agree",
+        "IImpactedTheLiteracyAndLanguageSkillsOfMyPartnerChildrentheChildrenInMyClassroom": "Agree",
+        "MySiteManagersvolunteerManagerqualityCoachGaveMeReliableSupportThroughoutTheYear": "Agree",
+        "TheFacilitationOfTeamPlanningMeetingsEffectivelyPreparedMeForSessionImplementation": "Agree",
+        "MyJumpstartExperienceHasHelpedMeFeelMoreConnectedToTheCommunityInWhichIServed_Rating": 2.0,
+        "TheJumpstartTrainingThroughoutTheYearPreparedMeToHelpChildrenDevelopKeyLiteracySkills": "Agree",
+        "TheObservationAndFeedbackProcessHelpedMeMoreEffectivelyFocusOnDomainsAndSkills_Rating": 4.0,
+        "IImpactedTheLiteracyAndLanguageSkillsOfMyPartnerChildrentheChildrenInMyClassroom_Rating": 3.0,
+        "MySiteManagersvolunteerManagerqualityCoachGaveMeReliableSupportThroughoutTheYear_Rating": 3.0,
+        "TheFacilitationOfTeamPlanningMeetingsEffectivelyPreparedMeForSessionImplementation_Rating": 3.0,
+        "TheJumpstartTrainingThroughoutTheYearPreparedMeToHelpChildrenDevelopKeyLiteracySkills_Rating": 3.0,
+        "TheJumpstartTrainingThroughoutTheYearHelpedMeFeelMoreConfidentWorkingWithChildrenInADevelopmentallyAppropriateManner": "Agree",
+        "IBuiltAStrongRelationshipWithPreschoolStaffThroughMyInteractionsWithThemInSessionsAndClassroomAssistancechildCenteredTime": "Strongly Agree",
+        "TheJumpstartTrainingThroughoutTheYearHelpedMeFeelMoreConfidentWorkingWithChildrenInADevelopmentallyAppropriateManner_Rating": 3.0,
+        "TheMaterialsAndGuidanceProvidedToMeByJumpstartegSessionPlansAndMaterialsPacketsAdequatelyPreparedMeForSessionImplementation": "Strongly Agree",
+        "TheObservationAndFeedbackProcessHelpedMeMoreEffectivelyEngageInDevelopmentallyAppropriateWaysWithChildrenInTheJumpstartSession": "Strongly Agree",
+        "MySiteManagersvolunteerManagerqualityCoachEffectivelyCommunicatedWithMeieClearlyConsistentlyAndInATimelyMannerThroughoutTheYear": "Agree",
+        "IBuiltAStrongRelationshipWithPreschoolStaffThroughMyInteractionsWithThemInSessionsAndClassroomAssistancechildCenteredTime_Rating": 4.0,
+        "TheMaterialsAndGuidanceProvidedToMeByJumpstartegSessionPlansAndMaterialsPacketsAdequatelyPreparedMeForSessionImplementation_Rating": 4.0,
+        "TheObservationAndFeedbackProcessHelpedMeMoreEffectivelyEngageInDevelopmentallyAppropriateWaysWithChildrenInTheJumpstartSession_Rating": 4.0,
+        "MySiteManagersvolunteerManagerqualityCoachEffectivelyCommunicatedWithMeieClearlyConsistentlyAndInATimelyMannerThroughoutTheYear_Rating": 3.0
+    },
+    "CulturalHumility":
+    {
+        "ChildrenShouldLearnToCommunicateInEnglishOnly": "Agree",
+        "ChildrenShouldLearnToCommunicateInEnglishOnly_Rating": 3.0,
+        "IFindWorkingWithACulturallyDiverseGroupOfChildrenRewarding": "Strongly Agree",
+        "ICanLearnAGreatDealFromChildrenWithCulturallyDifferentBackgrounds": "Strongly Agree",
+        "IFindWorkingWithACulturallyDiverseGroupOfChildrenRewarding_Rating": 4.0,
+        "ICanLearnAGreatDealFromChildrenWithCulturallyDifferentBackgrounds_Rating": 4.0,
+        "AdultsShouldAdaptTheirInteractionStyleBasedOnChildrensRaceCultureAndLanguage": "Strongly Agree",
+        "AdultsShouldAdaptTheirInteractionStyleBasedOnChildrensRaceCultureAndLanguage_Rating": 4.0,
+        "IAmAwareOfTheDiversityOfCulturalBackgroundsInTheClassroomvirtualOrInpersonInWhichIServe": "Strongly Agree",
+        "MulticulturalAwarenessTrainingCanHelpMeWorkMoreEffectivelyWithADiversePopulationOfChildren": "Strongly Agree",
+        "IAmAwareOfTheDiversityOfCulturalBackgroundsInTheClassroomvirtualOrInpersonInWhichIServe_Rating": 4.0,
+        "MulticulturalAwarenessTrainingCanHelpMeWorkMoreEffectivelyWithADiversePopulationOfChildren_Rating": 4.0,
+        "TeachersAndJumpstartMembersvolunteersHaveTheResponsibilityToBeAwareOfTheirStudentsCulturalBackgrounds": "Strongly Agree",
+        "ToBeEffectiveInTheClassroomvirtualOrInpersonOneNeedsToBeAwareOfCulturalDifferencesPresentInTheClassroom": "Strongly Agree",
+        "RegardlessOfTheMakeupOfMyClassvirtualOrInpersonItIsImportantForChildrenToBeAwareOfMulticulturalDiversity": "Strongly Agree",
+        "TeachersAndJumpstartMembersvolunteersHaveTheResponsibilityToBeAwareOfTheirStudentsCulturalBackgrounds_Rating": 4.0,
+        "ToBeEffectiveInTheClassroomvirtualOrInpersonOneNeedsToBeAwareOfCulturalDifferencesPresentInTheClassroom_Rating": 4.0,
+        "RegardlessOfTheMakeupOfMyClassvirtualOrInpersonItIsImportantForChildrenToBeAwareOfMulticulturalDiversity_Rating": 4.0,
+        "AsClassroomsvirtualAndInpersonBecomeMoreCulturallyDiverseJumpstartMembersvolunteersAndTeachersJobsBecomeIncreasinglyRewarding": "Strongly Agree",
+        "AsClassroomsvirtualAndInpersonBecomeMoreCulturallyDiverseJumpstartMembersvolunteersAndTeachersJobsBecomeIncreasinglyRewarding_Rating": 4.0
+    },
+    "FamilyInteraction":
+    {
+        "FamilyStory": null,
+        "FamilyInteractionYesNo": null
+    },
+    "PreschoolLocation":
+    {
+        "PreschoolCity": "No",
+        "PreschoolState": "Yes",
+        "PreschoolCommunity": null
+    },
+    "ProgramYear_Value": 2021.0,
+    "CivicEngagement4pt":
+    {
+        "IHaveAGoodUnderstandingAboutHowICanBeAnEffectiveCitizenInMyCommunity": "Strongly Agree",
+        "IAmComfortableExpressingMyOpinionAboutImportantCommunityIssuesToOthers": "Strongly Agree",
+        "IHaveAGoodUnderstandingAboutHowICanBeAnEffectiveCitizenInMyCommunity_Rating": 4.0,
+        "IAmComfortableExpressingMyOpinionAboutImportantCommunityIssuesToOthers_Rating": 4.0,
+        "IHaveAGoodUnderstandingAboutMostOfTheImportantIssuesFacingTheCommunityWhereIServedWithJumpstartThisYear": "Strongly Agree",
+        "IHaveAGoodUnderstandingAboutMostOfTheImportantIssuesFacingTheCommunityWhereIServedWithJumpstartThisYear_Rating": 4.0
+    },
+    "CivicEngagement5pt":
+    {
+        "EarlyChildhoodEducationPlaysAPivotalRoleInBreakingTheCycleOfPoverty": "Strongly Agree",
+        "EarlyChildhoodEducationPlaysAPivotalRoleInBreakingTheCycleOfPoverty_Rating": 5.0,
+        "TheGovernmentShouldProvideMoreFundingForEarlyChildhoodEducationThanItDoesRightNow": "Strongly Agree",
+        "NationalServiceProgramsPlayAnImportantRoleInAddressingSocialProblemsAtTheCommunityLevel": "Strongly Agree",
+        "TheGovernmentShouldProvideMoreFundingForEarlyChildhoodEducationThanItDoesRightNow_Rating": 5.0,
+        "ChildrenWhoHaveHighqualityEarlyEducationExperiencesAreMoreLikelyToHaveBetterLifeOutcomes2": "Strongly Agree",
+        "NationalServiceProgramsPlayAnImportantRoleInAddressingSocialProblemsAtTheCommunityLevel_Rating": 5.0,
+        "ChildrenWhoHaveHighqualityEarlyEducationExperiencesAreMoreLikelyToHaveBetterLifeOutcomes2_Rating": 5.0
+    },
+    "WelcomedByTeachers": null,
+    "HearAboutJumpstart2":
+    {
+        "HearAboutJumpstartMethod":
+        [],
+        "HearAboutJumpstartOtherOrg":
+        []
+    },
+    "IdentityRespectText": null,
+    "NameForTeacherStory": null,
+    "OtherFluentLanguage":
+    [],
+    "ProgramSatisfaction": "Very Satisfied",
+    "AlumInformationTypes":
+    [],
+    "RecruitmentRetention":
+    {
+        "DoingCommunityService": "Major/Key Factor",
+        "EarningWorkstudyFunds": "Major/Key Factor",
+        "DoingCommunityService_Rating": 4.0,
+        "EarningWorkstudyFunds_Rating": 4.0,
+        "RelationshipWithMyTeamMembers": "Somewhat A Factor",
+        "EarnAnAmeriCorpsEducationAward": "Major/Key Factor",
+        "InternshipservicelearningAtMySchool": "Somewhat A Factor",
+        "RelationshipWithMyTeamMembers_Rating": 3.0,
+        "EarnAnAmeriCorpsEducationAward_Rating": 4.0,
+        "GettingExperienceWorkingWithYoungChildren": "Somewhat A Factor",
+        "InternshipservicelearningAtMySchool_Rating": 3.0,
+        "MyBeliefThatEducationCanBreakTheCycleOfPoverty": "Major/Key Factor",
+        "GettingExperienceWorkingWithYoungChildren_Rating": 3.0,
+        "MyBeliefThatEducationCanBreakTheCycleOfPoverty_Rating": 4.0,
+        "GainingProfessionalExperienceInEarlyChildhoodEducation": "Somewhat A Factor",
+        "GainingProfessionalExperienceInEarlyChildhoodEducation_Rating": 3.0
+    },
+    "TeacherConvoEffective": null,
+    "TeacherConvoFrequency": null,
+    "AlumCommunicationForms":
+    [],
+    "AlumEventsInterestedIn":
+    [],
+    "WorkWithChildrenBefore": null,
+    "TypeOfService_IsRequired": true,
+    "TeacherSupportedMyLearning": null,
+    "AnticipatedDateOfGraduation":
+    {
+        "Year": "2022",
+        "Month": "May"
+    },
+    "AppliedToOtherOrganizations":
+    {
+        "CityYear":
+        [],
+        "UrbanTeachers":
+        [],
+        "BrightHorizons":
+        [],
+        "TeachForAmerica":
+        [],
+        "BrookCharterSchool":
+        [],
+        "TeacherFellowshipProgram":
+        [],
+        "OtherTeachingserviceOpportunity":
+        []
+    },
+    "TeacherRelationshipStrength": null,
+    "TeacherStoryNameConsentYesNo": null,
+    "WorkWithChildrenBeforeAgeGroup":
+    [],
+    "TeacherRelationshipInfluenceSessionSuccess": null
+}
